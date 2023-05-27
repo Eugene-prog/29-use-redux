@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+h1 {
+  font-size: 48px;
+}
+
 div {
   margin: 70px auto;
 }
